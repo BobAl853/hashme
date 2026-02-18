@@ -79,6 +79,4 @@ echo "Building snapshot"
 
 # Build current snapshot
 hash_units "./units.sha256"
-
-echo "Cleaning up"
- rm -rf "$TIMER_SCAN"
+echo "Remember to clear this repo from your machine"
